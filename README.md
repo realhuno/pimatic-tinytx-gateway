@@ -12,7 +12,8 @@ apach2 with php5
 Start the gateway with
 sudo perl ./gateway.pl
 
-Pimatic ShellSensor 
+Pimatic-shell-execute
+https://www.npmjs.org/package/pimatic-shell-execute
 ======================
 
     {
